@@ -1,0 +1,5 @@
+print("What is the quote? ")
+quote = input()
+print("Who said it? ")
+author = input()
+print(author + " says, " + "\""+quote+".\"")
