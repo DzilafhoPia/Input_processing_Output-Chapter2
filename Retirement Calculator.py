@@ -1,4 +1,4 @@
-"""Create a program that determines how many years you have left until retirement and the year you can retire"""
+# Create a program that determines how many years you have left until retirement and the year you can retire.
 
 print("What is your current age? ")
 current_age = int(input())
