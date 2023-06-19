@@ -1,5 +1,4 @@
-print("What is the quote? ")
-quote = input()
-print("Who said it? ")
-author = input()
-print(author + " says, " + "\""+quote+".\"")
+
+quote = input("What is the quote? ")
+author = input("Who said it? ")
+print(f"{author} says, \"{quote}.\"")
